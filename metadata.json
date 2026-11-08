@@ -1,0 +1,6 @@
+{
+  "name": "Majburiy Matematika 0 dan (DTM)",
+  "description": "O'zbekiston OTM kirish imtihonlari uchun Majburiy Matematika fanini 0 dan mukammal o'rgatuvchi interaktiv ta'lim platformasi, testlar va AI repetitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
